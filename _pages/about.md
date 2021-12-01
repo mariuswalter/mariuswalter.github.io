@@ -10,8 +10,7 @@ redirect_from:
 I'm Marius, a molecular biologist and virologist at the [Buck Institute for Research on Aging](https://www.buckinstitute.org/), in Novato, California.
 
 
-Research Interests
-======
+# Research Interests
 
 ## Viral Interference in herpesviruses
 ![GD](/images/GD.png) 
