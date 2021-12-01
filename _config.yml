@@ -84,7 +84,7 @@ author:
   avatar           : "Profile_Pic.jpg" 
   bio              : ""
   location         : "San Francisco, USA"
-  employer         : "https://www.buckinstitute.org/"
+  employer         : # "https://www.buckinstitute.org/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=marius+walter"
   googlescholar    : "https://scholar.google.com/citations?user=bhVXNy0AAAAJ&hl=en"
   email            : "mwalter@buckinstitute.org" 
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/marius-walter-762096100/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2476-9661"
+  linkedin         : "marius-walter-762096100"
+  orcid            : "https://orcid.org/0000-0002-2476-9661"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
