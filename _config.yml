@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Marius Walter"
-description              : &description "personal description"
-url                      : https://mariuswalter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Marius Walter"
+url                      : https://www.mariuswalter.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mariuswalter/mariuswalter.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -48,6 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+logo                     : "logo.png"
 
 # SEO Related
 google_site_verification :
