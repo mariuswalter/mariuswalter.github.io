@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "_mariusW
+  username               : &twitter "_mariusW"
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/marius-walter-762096100/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2476-9661"
   pinterest        :
   soundcloud       :
