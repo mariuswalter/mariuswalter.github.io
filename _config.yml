@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Marius Walter"
   avatar           : "Profile_Pic.jpg" 
-  bio              : ""
+ # bio              : ""
+  bio              : "Virologist at the <br> <br> Buck Institute, <a style='color: black;' href='http://www.buckinstitute.org/</a> 
   location         : "San Francisco, USA"
   employer         : # "https://www.buckinstitute.org/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=marius+walter"
