@@ -29,7 +29,7 @@ Outside of the lab, you'll find me exploring the mountains under the California 
 * Since 2020 -	Committee member in the Buck Institute Racial Justice Task Force
 * 2020 - Point of contact between the Buck Institute and the QBI coronavirus research group at UCSF
 * Since 2012 -	Mentoring of undergraduate and graduate students
-* Since 2010 -	Wikipedia contributions 
+* Since 2010 -	[Wikipedia contributions](https://commons.wikimedia.org/wiki/Special:ListFiles?limit=50&user=Mariuswalter)
 
 ## Patents
 * 2019 - Gene Drive in DNA viruses. Application number PCT/US2019/034205, pending. Inventor: Marius Walter.
