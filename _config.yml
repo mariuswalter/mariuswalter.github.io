@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marius Walter"
-  avatar           : "Profile_Pic.png"
+  avatar           : "Profile_Pic.jpg" 
   bio              : ""
   location         : "San Francisco, USA"
   employer         : "https://www.buckinstitute.org/"
