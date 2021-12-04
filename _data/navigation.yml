@@ -3,11 +3,9 @@ main:
 
   - title: "CV"
     url: /cv/
-    
+
   - title: "Publications"
     url: /publications/
 
   - title: "The Buck Institute"
-    url: "https://www.buckinstitute.org/"  
-
- 
+    url: "https://www.buckinstitute.org/"
