@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=bhVXNy0AAAAJ&hl=en).
 
 * Meyer B, Chiaravalli J, Gellenoncourt S, Brownridge P, Bryne DP, Daly LA, Grauslys A, **Walter M**, Agou F, Chakrabarti LA, Craik CS, Eyers CE, Eyers PA, Gambin Y, Jones AR, Sierecki E, Verdin E, Vignuzzi M, Emmott E. Characterising proteolysis during SARS-CoV-2 infection identifies viral cleavage sites and cellular targets with therapeutic potential. *Nature communications* 12:1–16 (2021). [doi:10.1038/s41467-021-25796-w](https://www.nature.com/articles/s41467-021-25796-w)
 * **Walter M**, Perrone R, Verdin E. Targeting conserved sequences circumvents the evolution of resistance in a viral gene drive against human cytomegalovirus. *Journal of Virology* 95 (2021). [doi:10.1128/JVI.00802-21](https://journals.asm.org/doi/full/10.1128/JVI.00802-21)
