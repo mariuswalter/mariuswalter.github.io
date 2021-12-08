@@ -20,7 +20,8 @@ Outside of the lab, you'll find me exploring the mountains under the California 
 * **2011 - Ecole Polytechnique**,		Master of Science and Engineering, Paris, France.		
 
 ## Work
-* Since 2016 - **Postdoctoral fellow**, Laboratory of Eric Verdin, Buck Institute, Novato, CA, USA.
+* 2022-  -  **Scientist**, Laboratory of Eric Verdin, Buck Institute, Novato, CA, USA.
+* 2016-2021 -  **Postdoctoral fellow**, Laboratory of Eric Verdin, Buck Institute, Novato, CA, USA.
 * 2012-2015 - **PhD student**, Laboratory of Deborah Bourc’his, Institut Curie, Paris.
 * 2012 - **Master student**, ETH Zurich, Switzerland.
 * 2011 - **Master student**, Institut Curie, Paris.
