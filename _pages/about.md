@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Marius, a molecular biologist and virologist in San Francisco, California.
+Hi! I'm Marius, a virologist and molecular biologist in San Francisco, California.
 
 ## Background
 I received my PhD from the [Curie Institute](https://institut-curie.org/) and Sorbonne University in Paris. Before that, I graduated from the Ecole Polytechnique in France, and received a Master of Genetics from Paris University. Since 2016, I've been working in the lab of Eric Verdin at the [Buck Institute](https://www.buckinstitute.org/), near San Francisco.
