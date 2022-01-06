@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=bhVXNy0AAAAJ&hl=en).
+Please also check my [Google Scholar profile](https://scholar.google.com/citations?user=bhVXNy0AAAAJ&hl=en).
 
+* **Walter M**, Chen IP, Vallejo-Gracia A, Kim I-J, Bielska O, Lam VL, Hayashi JM, Cruz A, Shah S, Gross JD, Krogan NJ, Schilling B, Ott M, Verdin E. SIRT5 is a proviral factor that interacts with SARS-CoV-2 Nsp14 protein. *bioRxiv* (2022). [doi:10.1101/2022.01.04.474979](https://www.biorxiv.org/content/10.1101/2022.01.04.474979v1)
 * Meyer B, Chiaravalli J, Gellenoncourt S, Brownridge P, Bryne DP, Daly LA, Grauslys A, **Walter M**, Agou F, Chakrabarti LA, Craik CS, Eyers CE, Eyers PA, Gambin Y, Jones AR, Sierecki E, Verdin E, Vignuzzi M, Emmott E. Characterising proteolysis during SARS-CoV-2 infection identifies viral cleavage sites and cellular targets with therapeutic potential. *Nature communications* 12:1–16 (2021). [doi:10.1038/s41467-021-25796-w](https://www.nature.com/articles/s41467-021-25796-w)
 * **Walter M**, Perrone R, Verdin E. Targeting conserved sequences circumvents the evolution of resistance in a viral gene drive against human cytomegalovirus. *Journal of Virology* 95 (2021). [doi:10.1128/JVI.00802-21](https://journals.asm.org/doi/full/10.1128/JVI.00802-21)
 * **Walter M**, Verdin E. Viral gene drive in herpesviruses. *Nature Communications* 11:4884 (2020). [doi:10.1038/s41467-020-18678-0](https://www.nature.com/articles/s41467-020-18678-0)
