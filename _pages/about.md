@@ -10,14 +10,14 @@ redirect_from:
 Hi! I'm Marius, a virologist and molecular biologist in San Francisco, California.
 
 ## Background
-I received my PhD from the [Curie Institute](https://institut-curie.org/) and Sorbonne University in Paris. Before that, I graduated from the Ecole Polytechnique in France, and received a Master of Genetics from Paris University. Since 2016, I've been working in the lab of Eric Verdin at the [Buck Institute](https://www.buckinstitute.org/), near San Francisco.
+I am an early career scientist interested in developing cutting-edge approaches to study viral pathogenesis and host-pathogen interactions at the single-cell level, with the objective of inventing novel therapies against viruses, and especially herpesviruses. I am a graduate of the Ecole Polytechnique and the University of Paris and I received my PhD from the [Curie Institute](https://institut-curie.org/) and Sorbonne University in Paris. Since 2016, I've been working in the lab of Eric Verdin at the [Buck Institute](https://www.buckinstitute.org/), near San Francisco.
 
 ## Research Interests
 
 ### Viral Interference in herpesviruses
 ![GD](/images/GD.png)
 
-I am interested in developing cutting-edge approaches to study viral pathogenesis and host-pathogen interactions, with the objective of inventing novel therapies against viruses, and especially herpesviruses. With Eric Verdin at the Buck Institute, we developed a CRISPR-based system of viral interference in herpesviruses. Our interfering strategy was inspired by the “gene drives” developed in insects. It causes the conversion of wild-type viruses into new recombinant viruses and drives the native viral population to extinction. Our discovery represents a novel way to engineer viruses for therapeutic and research purposes.We are currently developing in vivo models of viral gene drive, and are using the technology to investigate the fundamental mechanisms of viral co-infection and recombination.
+With Eric Verdin at the Buck Institute, we developed a CRISPR-based system of viral interference in herpesviruses. Our interfering strategy was inspired by the “gene drives” developed in insects. It causes the conversion of wild-type viruses into new recombinant viruses and drives the native viral population to extinction. Our discovery represents a novel way to engineer viruses for therapeutic and research purposes.We are currently developing in vivo models of viral gene drive, and are using the technology to investigate the fundamental mechanisms of viral co-infection and recombination.
 
 [Walter and Verdin, Nature Communications (2020)](https://www.nature.com/articles/s41467-020-18678-0)
 
