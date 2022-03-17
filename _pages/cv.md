@@ -33,7 +33,7 @@ Outside of the lab, you’ll find me exploring the mountains or enjoying a beer 
 * Since 2010 -	[Wikipedia contributions](https://commons.wikimedia.org/wiki/Special:ListFiles?limit=50&user=Mariuswalter)
 
 ## Patents
-* 2019 - Gene Drive in DNA viruses. Application number PCT/US2019/034205, pending. Inventor: Marius Walter.
+* 2019 - Gene Drive in DNA viruses. Application [US17/054760](https://patents.google.com/patent/US20210222150A1/en). Inventor: Marius Walter.
 
 ## Awards and Fellowships
 * 2019 - Post-doctoral fellow Travel Award - American Society for Virology
