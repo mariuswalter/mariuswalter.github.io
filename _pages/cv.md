@@ -12,7 +12,7 @@ redirect_from:
 ![GD](/images/Yosemite.jpg)
 
 I am an early career scientist from France interested in viral interference and the biology of viral co-infection, with the objective of developing novel therapies against herpesviruses. I am committed to making Academia a better place for everyone and believe that all research should be made open-access.
-Outside of the lab, you'll find me exploring the mountains under the California sun, or enjoying a glass of wine at the end of the day. (And if you are still wondering, yes, french wine is better!)
+Outside of the lab, you’ll find me exploring the mountains or enjoying a beer at the end of the day. I just moved to Seattle and I am already missing the California sun, but I am excited to start exploring the area!
 
 ## Education
 * **2015 - PhD in Biology**, Institut Curie & Sorbonne University, Paris, France.
@@ -20,14 +20,14 @@ Outside of the lab, you'll find me exploring the mountains under the California 
 * **2011 - Ecole Polytechnique**,		Master of Science and Engineering, Paris, France.		
 
 ## Work
-* 2022-  -  **Scientist**, Laboratory of Eric Verdin, Buck Institute, Novato, CA, USA.
-* 2016-2021 -  **Postdoctoral fellow**, Laboratory of Eric Verdin, Buck Institute, Novato, CA, USA.
-* 2012-2015 - **PhD student**, Laboratory of Deborah Bourc’his, Institut Curie, Paris.
+* Since 2022 -  **Staff scientist**, Lab of Keith Jerome, Fred Hutch Cancer Center, Seattle, WA, USA.
+* 2016-2021 -  **Postdoctoral fellow & Scientist**, Lab of Eric Verdin, Buck Institute, Novato, CA, USA.
+* 2012-2015 - **PhD student**, Lab of Deborah Bourc’his, Institut Curie, Paris.
 * 2012 - **Master student**, ETH Zurich, Switzerland.
 * 2011 - **Master student**, Institut Curie, Paris.
 
 ## Service
-* Since 2020 -	Committee member in the Buck Institute Racial Justice Task Force
+* 2020-2021 -	Committee member in the Buck Institute Racial Justice Task Force
 * 2020 - Point of contact between the Buck Institute and the QBI coronavirus research group at UCSF
 * Since 2012 -	Mentoring of undergraduate and graduate students
 * Since 2010 -	[Wikipedia contributions](https://commons.wikimedia.org/wiki/Special:ListFiles?limit=50&user=Mariuswalter)
