@@ -11,7 +11,7 @@ redirect_from:
 
 ![GD](/images/Yosemite.jpg)
 
-I am an early career scientist from France interested in viral interference and the biology of viral co-infection, with the objective of developing novel therapies against herpesviruses. I am committed to making Academia a better place for everyone and believe that all research should be made open-access.
+I am an early career scientist from France interested in viral pathogenesis and host-pathogen interaction, with the objective of developing novel therapies against herpesviruses. I am committed to making Academia a better place for everyone and believe that all research should be made open-access.
 Outside of the lab, you’ll find me exploring the mountains or enjoying a beer at the end of the day. I just moved to Seattle and I am already missing the California sun, but I am excited to start exploring the area!
 
 ## Education
@@ -29,11 +29,15 @@ Outside of the lab, you’ll find me exploring the mountains or enjoying a beer 
 ## Service
 * 2020-2021 -	Committee member in the Buck Institute Racial Justice Task Force
 * 2020 - Point of contact between the Buck Institute and the QBI coronavirus research group at UCSF
+* Since 2015 - [Github contributions](https://github.com/mariuswalter)
 * Since 2012 -	Mentoring of undergraduate and graduate students
 * Since 2010 -	[Wikipedia contributions](https://commons.wikimedia.org/wiki/Special:ListFiles?limit=50&user=Mariuswalter)
 
 ## Patents
 * 2019 - Gene Drive in DNA viruses. Application [US17/054760](https://patents.google.com/patent/US20210222150A1/en). Inventor: Marius Walter.
+
+## Grants
+* 2022 - Fred Hutch VIDD Faculty Initiative Program (PI: Marius Walter) 
 
 ## Awards and Fellowships
 * 2019 - Post-doctoral fellow Travel Award - American Society for Virology
@@ -47,6 +51,7 @@ Outside of the lab, you’ll find me exploring the mountains or enjoying a beer 
 * 2022 -  Invited speaker - Laboratory of Viral Disease, NIH, Bethesda, MD, USA.
 * 2021 -	Invited speaker -	Institut Pasteur, Paris, France
 * 2021 -	Invited speaker -	Institute of Pharmacology and Structural Biology (IPBS), University of Toulouse, France
+* 2021 -	Invited speaker - Institute of Integrative Biology of the Cell (I2BC), University of Paris-Saclay, Orsay, France.
 * 2019 -	Selected speaker -	American Society of Virology’s annual meeting, Minneapolis, MN, USA.
 * 2018 -	Selected speaker -	"The CRISPR-Cas Revolution" Conference, Cold Spring Harbor Laboratory, NY, USA.
 * 2018 -	Selected speaker -	Bay Area Virology Symposium, Berkeley, USA.
