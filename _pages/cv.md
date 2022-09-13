@@ -48,6 +48,7 @@ Outside of the lab, you’ll find me exploring the mountains or enjoying a beer 
 * 2010 - Ecole Polytechnique best collaborative scientific project
 
 ## Talks
+* 2022 -  Invited speaker - European Moleculab Biology Laboratory (EMBL), Heidelberg, Germany.
 * 2022 -  Invited speaker - Laboratory of Viral Disease, NIH, Bethesda, MD, USA.
 * 2021 -	Invited speaker -	Institut Pasteur, Paris, France
 * 2021 -	Invited speaker -	Institute of Pharmacology and Structural Biology (IPBS), University of Toulouse, France
