@@ -12,7 +12,7 @@ redirect_from:
 ![GD](/images/Yosemite.jpg)
 
 I am an early career scientist from France interested in viral pathogenesis and host-pathogen interaction, with the objective of developing novel therapies against herpesviruses. I am committed to making Academia a better place for everyone and believe that all research should be made open-access.
-Outside of the lab, you’ll find me exploring the mountains or enjoying a beer at the end of the day. I just moved to Seattle and I am already missing the California sun, but I am excited to start exploring the area!
+Outside of the lab, you’ll find me exploring the mountains or enjoying a beer at the end of the day. I recently moved to Seattle and I am already missing the California sun, but I am excited to start exploring the area!
 
 ## Education
 * **2015 - PhD in Biology**, Institut Curie & Sorbonne University, Paris, France.
@@ -42,7 +42,7 @@ Outside of the lab, you’ll find me exploring the mountains or enjoying a beer 
 ## Awards and Fellowships
 * 2019 - Post-doctoral fellow Travel Award - American Society for Virology
 * 2016 - Research grant from the Philippe Foundation.
-* 2012 - PhD fellowship from the Ecole Polytechnique
+* 2012-2015 - PhD fellowship from the Ecole Polytechnique
 * 2011 - EMBO short term fellowship
 * 2011 - Ecole Polytechnique research internship prize
 * 2010 - Ecole Polytechnique best collaborative scientific project
