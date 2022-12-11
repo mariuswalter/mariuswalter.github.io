@@ -14,10 +14,10 @@ I am a graduate from the Ecole Polytechnique in France, and have a Master of Gen
 
 ## Research Interests
 
-### Viral Interference in herpesviruses
+### Viral Gene Drive in herpesviruses
 I am interested in developing cutting-edge approaches to study viral pathogenesis and host-pathogen interactions. My research focuses on developing new therapeutic strategies against herpesviruses, a family of ubiquitous DNA viruses that chronically infect most of the human population. During my postdoc, I invented a CRISPR-based system of viral interference against herpesviruses. The strategy was inspired by the “gene drives” developed in insects and rely on engineered viruses that outcompete the replication of their infectious parents during a viral infection. Our discovery represents a new way to engineer viruses for therapeutic and research purposes, and my current work centers on exploring the potential of the technology for therapeutic and research purposes.
 
-[Walter and Verdin, *Nature Communications* (2020)](https://www.nature.com/articles/s41467-020-18678-0)
+[Walter and Verdin, *Nature Communications* (2020)](https://www.nature.com/articles/s41467-020-18678-0) and accompanying [blog post](https://bioengineeringcommunity.nature.com/posts/viral-gene-drive-in-herpesviruses)
 
 [Walter et al., *Journal of Virology* (2021)](https://journals.asm.org/doi/10.1128/JVI.00802-21)
 
