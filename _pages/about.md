@@ -15,7 +15,7 @@ I am a graduate from the Ecole Polytechnique in France, and have a Master of Gen
 ## Research Interests
 
 ### Viral Gene Drive in herpesviruses
-I am interested in developing cutting-edge approaches to study viral pathogenesis and host-pathogen interactions. My research focuses on developing new therapeutic strategies against herpesviruses, a family of ubiquitous DNA viruses that chronically infect most of the human population. During my postdoc, I invented a CRISPR-based system of viral interference against herpesviruses. The strategy was inspired by the “gene drives” developed in insects and rely on engineered viruses that outcompete the replication of their infectious parents during a viral infection. Our discovery represents a new way to engineer viruses for therapeutic and research purposes, and my current work centers on exploring the potential of the technology for therapeutic and research purposes.
+My research focuses on herpesviruses, a family of ubiquitous DNA viruses that chronically infect most of the human population and represent a heavy burden on human health. During my postdoc, I invented a new therapeutic strategy against herpesviruses, using engineered “gene drive” viruses that can replace wild-type viruses with an attenuated version to reduce viral levels and potentially suppress symptoms. This discovery was inspired by the gene drives developed in insects and represented a new way to engineer viruses for therapeutic and research purposes. My current work centers on exploring the potential of the technology for therapeutic and research purposes.
 
 [Walter and Verdin, *Nature Communications* (2020)](https://www.nature.com/articles/s41467-020-18678-0) and accompanying [blog post](https://bioengineeringcommunity.nature.com/posts/viral-gene-drive-in-herpesviruses)
 
@@ -23,9 +23,4 @@ I am interested in developing cutting-edge approaches to study viral pathogenesi
 
 ![GD](/images/GD.png)
 
-### Role of SIRT5 during SARS-CoV-2 infection
-In a collaboration between the Buck Institute, UCSF and the Gladstone Institutes in San Francisco, we are investigating the interaction between the viral proofreading enzyme Nsp14 and human Sirtuins, a class of lysine deacetylases critical for cell metabolism. Our research is highlighting unknown mechanisms by which the virus hijack the cellular machinery and counteract innate immune defense, potentially paving the way for novel therapeutic interventions against COVID19.
 
-[Walter et al., *BiorXiv* (2022)](https://www.biorxiv.org/content/10.1101/2022.01.04.474979v1)
-
-![GD](/images/SIRT5_1.png)
