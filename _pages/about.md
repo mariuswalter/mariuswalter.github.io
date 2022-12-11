@@ -15,7 +15,7 @@ I am a graduate from the Ecole Polytechnique in France, and have a Master of Gen
 ## Research Interests
 
 ### Viral Gene Drive in herpesviruses
-My research focuses on herpesviruses, a family of ubiquitous DNA viruses that chronically infect most of the human population and represent a heavy burden on human health. During my postdoc, I invented a new therapeutic strategy against herpesviruses, using engineered “gene drive” viruses that can replace wild-type viruses with an attenuated version to reduce viral levels and potentially suppress symptoms. This discovery was inspired by the gene drives developed in insects and represented a new way to engineer viruses for therapeutic and research purposes. My current work centers on exploring the potential of the technology for therapeutic and research purposes.
+My research focuses on herpesviruses, a family of ubiquitous DNA viruses that chronically infect most of the human population and represent a heavy burden on human health. During my postdoc, I invented a new therapeutic strategy against herpesviruses, using engineered “gene drive” viruses that can replace wild-type viruses with an attenuated version to reduce viral levels and potentially suppress symptoms. This discovery was inspired by the gene drives developed in insects and represented a new way to engineer herpesviruses. My current work centers on exploring the potential of the technology for therapeutic and research purposes.
 
 [Walter and Verdin, *Nature Communications* (2020)](https://www.nature.com/articles/s41467-020-18678-0) and accompanying [blog post](https://bioengineeringcommunity.nature.com/posts/viral-gene-drive-in-herpesviruses)
 
