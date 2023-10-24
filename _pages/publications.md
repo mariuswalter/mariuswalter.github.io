@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Please also check my [Google Scholar profile](https://scholar.google.com/citations?user=bhVXNy0AAAAJ&hl=en).
+* Timonina D, Hormazabal GV, Heckenbach I, Anderton E, Haky L, Floro A, Riley R, Kwok R, Breslin S, Ingle H, Tiwari R, Bielska O, Scheibye-Knudsen M, Kasler H, Campisi J, **Walter M**, Verdin E. Chronically disrupted sleep induces senescence in the visceral adipose tissue of C57BL/6 mice. bioRxiv (2023). [doi:10.1101/2023.10.17.562803](https://www.biorxiv.org/content/10.1101/2023.10.17.562803v1)
 * Roidor C, Syx L, Beyne E, Zielinski D, Teissandier A, Lee C, **Walter M**, Servant N, Chebli K, Bourc’his D, Azim Surani M, Borensztein M. Spatio-temporal X-linked gene reactivation and site-specific retention of epigenetic silencing in the mouse germline. bioRxiv (2023). [doi:10.1101/2023.04.25.532252](https://www.biorxiv.org/content/10.1101/2023.04.25.532252v1.abstract)
 * Carrico C, Cruz A, **Walter M**, Meyer JG, Wehrfritz C, Shah S, Wei L, Schilling B, Verdin E. Coenzyme A binding sites induce proximal acylation across protein families. *Scientific reports* 13:1–14 (2023). [doi:10.1038/s41598-023-31900-5](https://www.nature.com/articles/s41598-023-31900-5)
 * Schulz M, Teissandier A, de la Mata E, Armand M, Iranzo J, El Marjou F, Gestraud P, **Walter M**, Kinston S, Göttgens B, Greenberg MVC, Bourc’his D. DNA methylation restricts coordinated germline and neural fates in embryonic stem cell differentiation. bioRxiv (2022). [doi:10.1101/2022.10.22.513040](https://www.biorxiv.org/content/10.1101/2022.10.22.513040v1)
