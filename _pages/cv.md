@@ -12,7 +12,7 @@ redirect_from:
 ![GD](/images/Yosemite.jpg)
 
 I am an early career scientist from France interested in viral pathogenesis and host-pathogen interaction, with the objective of developing novel therapies against herpesviruses. I am committed to making Academia a better place for everyone and believe that all research should be made open-access.
-Outside of the lab, you’ll find me exploring the mountains or enjoying a beer at the end of the day. I recently moved to Seattle and I am already missing the California sun, but I am excited to start exploring the area!
+Outside of the lab, you are more likely to find me in the mountains, skiing or rock climbing.
 
 ## Education
 * **2015 - PhD in Biology**, Institut Curie & Sorbonne University, Paris, France.
