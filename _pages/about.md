@@ -10,7 +10,7 @@ redirect_from:
 Hi! I'm Marius, a virologist and molecular biologist at the Fred Hutch Cancer Center in Seattle, USA.
 
 ## Background
-I am a graduate from the Ecole Polytechnique in France, and have a Master of Genetics from Paris University. I received my PhD from the [Curie Institute](https://institut-curie.org/) and Sorbonne University in Paris and then moved to San Francisco for a postdoc with Eric Verdin at the [Buck Institute](https://www.buckinstitute.org/). I am currently a staff scientist in the lab of Keith Jerome at the [Fred Hutch Cancer Center](https://www.fredhutch.org) in Seattle.
+I am a graduate from the Ecole Polytechnique in France, and have a Master of Genetics from Paris University. I received my PhD from the [Curie Institute](https://institut-curie.org/) and Sorbonne University in Paris and then moved to San Francisco for a postdoc at the [Buck Institute](https://www.buckinstitute.org/). I am currently a staff scientist in the lab of Keith Jerome at the [Fred Hutch Cancer Center](https://www.fredhutch.org) in Seattle.
 
 ## Research Interests
 
