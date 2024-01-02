@@ -6,11 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-![GD](/images/Yosemite.jpg)
-
 I am an early career scientist from France interested in viral pathogenesis and host-pathogen interaction, with the objective of developing novel therapies against herpesviruses. I am committed to making academia a better place for everyone and believe that all research should be made open-access.
 Outside of the lab, you are more likely to find me in the mountains, skiing or rock climbing.
 
@@ -58,3 +53,8 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 * 2018 -	Selected speaker -	Bay Area Virology Symposium, Berkeley, USA.
 * 2015 -	Selected speaker -	EMBO Mobile Genome Conference, Heidelberg, Germany.
 * 2015 -	Selected speaker - "DNA methylation & Epigenomics" Symposium, Keystone, Colorado, USA.
+
+
+{% include base_path %}
+
+![GD](/images/Yosemite.jpg)
