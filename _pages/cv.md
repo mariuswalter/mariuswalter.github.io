@@ -21,7 +21,8 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 * 2012 - **Master student**, ETH Zurich, Switzerland.
 * 2011 - **Master student**, Institut Curie, Paris.
 
-## Service
+## Service and other contributions
+* 2024 - Fred Hutch VIDD-IDS/UW Virology Research symposium organizing committee
 * 2020-2021 -	Committee member in the Buck Institute Racial Justice Task Force
 * 2020 - Point of contact between the Buck Institute and the QBI coronavirus research group at UCSF
 * Since 2015 - [Github contributions](https://github.com/mariuswalter)
@@ -31,8 +32,9 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 ## Patents
 * 2019 - Gene Drive in DNA viruses. Application [US17/054760](https://patents.google.com/patent/US20210222150A1/en). Inventor: Marius Walter.
 
-## Grants
-* 2022 - Fred Hutch VIDD Faculty Initiative Program (PI: Marius Walter) 
+## Research Funding
+* 2024-2025: NIH/NIAID R21 - R21AI178255 - Role: PI - Title: *Viral gene drive as a novel curative therapy for HSV infection*
+* 2022 - Fred Hutch VIDD Faculty Initiative Program - Role: PI
 
 ## Awards and Fellowships
 * 2019 - Post-doctoral fellow Travel Award - American Society for Virology
