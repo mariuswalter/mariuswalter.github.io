@@ -46,7 +46,7 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 * 2010 - Ecole Polytechnique best collaborative scientific project
 
 ## Talks
-* 2024 -  Selected speaker - “The Social Life of Viruses”, Carolina, Puerto Rico, USA.
+* 2024 -  Selected speaker - “The Social Life of Viruses” conference, Carolina, Puerto Rico, USA.
 * 2022 -  Invited speaker - European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.
 * 2022 -  Invited speaker - Laboratory of Viral Disease, NIH, Bethesda, MD, USA.
 * 2021 -	Invited speaker -	Institut Pasteur, Paris, France
