@@ -27,6 +27,8 @@ My research focuses on herpesviruses, a family of ubiquitous DNA viruses that ch
 
 [New Scientist](https://www.newscientist.com/article/2408634-crispr-engineered-viruses-could-render-other-viruses-harmless)
 
+[Science News](https://www.sciencenews.org/article/gene-drive-herpes-simplex-virus)
+
 ![GD](/images/GD.png)
 
 
