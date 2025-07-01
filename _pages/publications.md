@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Please also check my [Google Scholar profile](https://scholar.google.com/citations?user=bhVXNy0AAAAJ&hl=en).
+* **Walter M**, Haick AK, Massa PA, Klouser LM, Stensland L, Santo TK, Xie H, Jerome KR. Herpes simplex virus 1 strain 17+ with R2 mutation in UL37 has residual retrograde transport. bioRxiv (2025). [doi:10.1101/2025.06.25.661543](https://www.biorxiv.org/content/10.1101/2025.06.25.661543v1)
 * Esmaeili S, Swan DA, Jerome KR, Schiffer JT, **Walter M**. Intracellular and extracellular dynamics of herpes simplex virus 1 DNA and infectious particles in epithelial and neuronal cells. *bioRxiv* (2025). [doi:10.1101/2025.05.13.653775](https://github.com/user-attachments/assets/37b71164-ebd9-4bdc-b720-a9292acb2924)
 * Kim N-G, Aubert M, Haick AK, Massa PA, Loprieno MA, **Walter M**, Kim HG, Ethan Nunley B, Xie H, Stensland L, Klouser LM, Perez-Osorio AC, Stone D, Roychoudhury P, Jerome KR. Minimization of gene editing off-target effects by tissue restriction of expression. *bioRxiv* (2025). [doi:10.1101/2025.01.21.634017](https://www.biorxiv.org/content/10.1101/2025.01.21.634017v1)
 * Roidor C, Syx L, Beyne E, Raynaud P, Zielinski D, Teissandier A, Lee C, **Walter M**, Servant N, Chebli K, Bourc’his D, Surani MA, Borensztein M. Temporal and regional X-linked gene reactivation in the mouse germline reveals site-specific retention of epigenetic silencing. *Nature structural & molecular biology* 1–14 (2025). [doi:10.1038/s41594-024-01469-2](https://www.nature.com/articles/s41594-024-01469-2)
