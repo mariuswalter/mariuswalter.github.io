@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Marius Walter"
-  avatar           : "Profile_Pic.jpg"
+  avatar           : "ProfilePic_2024-small.jpg"
  # bio              : ""
   bio              : "Virologist at the <a style='color: black;' href='https://www.fredhutch.org//'>Fred Hutch Cancer Center</a>"
   location         : "Seattle, USA"
@@ -112,12 +112,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        : "Mariuswalter"
+  Bluesky          : "mariusw.bsky.social"
 
 
 # Reading Files
