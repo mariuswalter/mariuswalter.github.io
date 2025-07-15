@@ -15,7 +15,8 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 * **2011 - Ecole Polytechnique**,		Master of Science and Engineering, Paris, France.		
 
 ## Work
-* Since 2022 -  **Staff scientist**, Lab of Keith Jerome, Fred Hutch Cancer Center, Seattle, WA, USA.
+* since 2025 - **Senior Staff scientist**, Lab of Keith Jerome, Fred Hutch Cancer Center, Seattle, WA, USA.
+* 2022-2025 - **Staff scientist**, Lab of Keith Jerome, Fred Hutch Cancer Center, Seattle, WA, USA.
 * 2016-2021 -  **Postdoctoral fellow & Scientist**, Lab of Eric Verdin, Buck Institute, Novato, CA, USA.
 * 2012-2015 - **PhD student**, Lab of Deborah Bourc’his, Institut Curie, Paris.
 * 2012 - **Master student**, ETH Zurich, Switzerland.
@@ -30,7 +31,7 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 * Since 2010 -	[Wikipedia contributions](https://commons.wikimedia.org/wiki/Special:ListFiles?limit=50&user=Mariuswalter)
 
 ## Patents
-* 2019 - Gene Drive in DNA viruses. Application [US17/054760](https://patents.google.com/patent/US20210222150A1/en). Inventor: Marius Walter.
+* 2019 - Gene Drive in DNA viruses. US Patent [12344837-B2](https://patents.google.com/patent/US20210222150A1/en). Inventor: Marius Walter.
 
 ## Research Funding
 * 2024-2025: Fred Hutch Evergreen fund - Role: PI
