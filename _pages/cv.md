@@ -34,9 +34,11 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 * 2019 - Gene Drive in DNA viruses. US Patent [12344837-B2](https://patents.google.com/patent/US20210222150A1/en). Inventor: Marius Walter.
 
 ## Research Funding
+* 2026-2027: Fred Hutch VIDD Faculty Initiative Award - Role: PI
+* 2025-2026: Washington Research Foundation Phase I award - Role: PI
 * 2024-2025: Fred Hutch Evergreen fund - Role: PI
 * 2024-2026: NIH/NIAID R21 - R21AI178255 - Role: PI - Title: *Viral gene drive as a novel curative therapy for HSV infection*
-* 2022 - Fred Hutch VIDD Faculty Initiative Program - Role: PI
+* 2022-2023 - Fred Hutch VIDD Faculty Initiative Award - Role: PI
 
 ## Awards and Fellowships
 * 2019 - Post-doctoral fellow Travel Award - American Society for Virology
@@ -47,6 +49,8 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 * 2010 - Ecole Polytechnique best collaborative scientific project
 
 ## Talks
+* 2026 - Selected speaker - International Herpesvirus Workshop, Montreal, Canada
+* 2025 - Invited speaker - Herpes Cure Advocacy Educational Event, [webinar] (https://www.youtube.com/watch?v=Dy6bI4RX9B4) 
 * 2024 -  Selected speaker - “The Social Life of Viruses” conference, Carolina, Puerto Rico, USA.
 * 2022 -  Invited speaker - European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.
 * 2022 -  Invited speaker - Laboratory of Viral Disease, NIH, Bethesda, MD, USA.
