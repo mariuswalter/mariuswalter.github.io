@@ -50,7 +50,7 @@ Outside of the lab, you are more likely to find me in the mountains, skiing or r
 
 ## Talks
 * 2026 - Selected speaker - International Herpesvirus Workshop, Montreal, Canada
-* 2025 - Invited speaker - Herpes Cure Advocacy Educational Event, [webinar] (https://www.youtube.com/watch?v=Dy6bI4RX9B4) 
+* 2025 - Invited speaker - Herpes Cure Advocacy Educational Event, [webinar](https://www.youtube.com/watch?v=Dy6bI4RX9B4) 
 * 2024 -  Selected speaker - “The Social Life of Viruses” conference, Carolina, Puerto Rico, USA.
 * 2022 -  Invited speaker - European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.
 * 2022 -  Invited speaker - Laboratory of Viral Disease, NIH, Bethesda, MD, USA.
